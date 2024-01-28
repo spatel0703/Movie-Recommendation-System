@@ -1,5 +1,4 @@
 # Movie-Recommendation-System
-# Movie Recommendation System
 
 Welcome to the Movie Recommendation System project! This system leverages Python, Flask, and SQL to provide users with personalized movie recommendations based on their preferences.
 
